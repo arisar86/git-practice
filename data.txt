@@ -1,3 +1,3 @@
 Name: Ari
 Age: 37
-Favorite Color: Black
+Favorite Color: Blue
